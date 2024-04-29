@@ -1,0 +1,10 @@
+fastapi
+mediapipe
+numpy
+opencv_contrib_python
+opencv_python
+pandas
+uvicorn
+Requests
+onnxruntime
+python-multipart
